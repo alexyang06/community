@@ -112,7 +112,7 @@ cite { font-style:normal;}
 #footer a{text-decoration:none;}
 
 
-#x_menus{width:100%;height:60px;position:fixed;top:0;left:0;z-index:2000;background:url('/abai/img/menu_bg.jpg') repeat-x top #FE6CAA;}
+#x_menus{width:100%;height:60px;position:fixed;top:0;left:0;z-index:2000;background:url('../img/menu_bg.jpg') repeat-x top #FE6CAA;}
 body#color_b #x_menus{background:url('../images/menu_bg_2.jpg') repeat-x top #85CDCA;}
 body#color_c #x_menus{background:url('../images/menu_bg_3.jpg') repeat-x top #B079D7;}
 #x_menus table{width:100%;height:100%;overflow:hidden}
