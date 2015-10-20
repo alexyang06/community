@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+
+.laymshade {
+	background-color: transparent !important;
+}
+
+.layermbox0 .layermchild {
+	max-width: 400px !important;
+	width: 300px !important
+}
+
+.layermcont {
+	text-align: center !important;
+	font-size: 18px !important;
+	line-height: 40px !important;
+}
+
+.layermend {
+	width: 50px !important;
+	height: 50px !important;
+	right: 0px !important;
+}
+
+.layermend::before, .layermend::after {
+	width: 35px !important;
+	left: 10px !important;
+	top: 15px !important;
+	background-color: #fff !important;
+}
+
+.layermcont input {
+	color: rgb(5, 5, 5);
+	width: 60%;
+	border: 0.1em solid #b3b3b3;
+	border-radius: 0.313em;
+	padding: 0.313em;
+}
+
+.layermcont span a {
+	border: 1px solid rgb(179, 179, 179);
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 7px;
+	margin-left: 1px;
+	color: rgb(5, 5, 5);
+	background: #fff;
+	text-decoration: none;
+}
+
+#btn {
+	border: 1px solid rgb(179, 179, 179);
+	padding: 5px;
+	padding-left: 10px;
+	border-radius: 5px;
+	margin-left: 1px;
+	color: rgb(5, 5, 5);
+	background: #fff;
+	text-decoration: none;
+	width: 30%;
+}
