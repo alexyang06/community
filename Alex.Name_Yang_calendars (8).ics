@@ -1,5 +1,6 @@
 BEGIN:VCALENDAR
 TITLE:My Calendars
+PRODID:-//NextThought LLC//Outlook for sub//EN
 URL:https://alpha.nextthought.com/dataserver2/@@calendar_feed.ics?token=d2
  c55a0f8ab0e62534573b16bd2214a9b2fccabb60bb1958f52c03a26ae57c3f5c4623375832
  365010568079292%219b1f9a2a-d942-44cd-90d2-4c017bb11eb6
