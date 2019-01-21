@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Calendar Events NT
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:US/Central
+URL:https://alpha.nextthought.com/dataserver2/@@calendar_feed.ics?token=ad
+ 6fbf9841d4be5b853278e031cdd2e7aaa8f94e6f0e64a2f1248c09cd5c0f215c461e0f5832
+ 365010568079292%219b1f9a2a-d942-44cd-90d2-4c017bb11eb6
+BEGIN:VEVENT
+SUMMARY:first event lastest
+DTSTART:20181210T210000Z
+DTEND:20181210T220000Z
+DTSTAMP:20190121T193127Z
+CREATED:20181210T203112Z
+DESCRIPTION:
+LAST-MODIFIED:20181210T203112Z
+LOCATION:test
+X-NTI-MIMETYPE:application/vnd.nextthought.courseware.coursecalendarevent
+X-NTIID:tag:nextthought.com\,2011-10:global.admin.alpha-OID-0x071cf4aa:557
+ 3657273:WES1vfe56P1
+SEQUENCE:0
+UID:sdfsdfsdfsdf@nextthought.com
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Overdue assignment
+DTSTART:20171025T050000Z
+DTSTAMP:20190121T193127Z
+CREATED:20190121T193127Z
+DESCRIPTION:<p>this is an overdue assignment</p>
+LAST-MODIFIED:20190121T193127Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.assessment.assignmentcalendarev
+ ent
+X-NTIID:
+SEQUENCE:1
+UID:23r23rr@nextthought.com
+END:VEVENT
+
+
+END:VCALENDAR
