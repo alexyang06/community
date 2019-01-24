@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+TITLE:My Calendars
+URL:https://demo.dev:8443/dataserver2/@@calendar_feed.ics?token=c97935739b
+ 3a2b821c330f085e536fcb9f342b969e35d53a03b65416de5c350c5c4a33c0383384245954
+ 2418180%21ba237512-671f-463f-a025-3a09398206db
+BEGIN:VEVENT
+SUMMARY:event00101时尚_in_course003
+DTSTART:20190114T210000Z
+DTEND:20190114T220000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b1f3:5573657
+ 273:rCaYpD4HSZy
+CREATED:20190114T203332Z
+DESCRIPTION:
+LAST-MODIFIED:20190122T000158Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.courseware.coursecalendarevent
+X-NTIID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b1f3:557
+ 3657273:rCaYpD4HSZy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:event22_in_course3
+DTSTART:20190114T220000Z
+DTEND:20190114T230000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b49b:5573657
+ 273:dNn30hpA127
+CREATED:20190114T215153Z
+DESCRIPTION:
+LAST-MODIFIED:20190114T222345Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.courseware.coursecalendarevent
+X-NTIID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b49b:557
+ 3657273:dNn30hpA127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:event23_in_course003
+DTSTART:20190122T200000Z
+DTEND:20190122T210000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b4e4:5573657
+ 273:vwrxMn3pK4f
+CREATED:20190114T220008Z
+DESCRIPTION:
+LAST-MODIFIED:20190122T195554Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.courseware.coursecalendarevent
+X-NTIID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x01b4e4:557
+ 3657273:vwrxMn3pK4f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Work@OU
+DTSTART:20190122T060000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:NTI-NAQ-assignment_system_474427743802892
+ 6046_191838385
+CREATED:20190124T215304Z
+DESCRIPTION:
+LAST-MODIFIED:20190124T215304Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.assessment.assignmentcalendarev
+ ent
+X-NTIID:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual executive business summit
+DTSTART:20190123T233000Z
+DTEND:20190124T000000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x020e43:5573657
+ 273:ZkGxm5rskJP
+CREATED:20190122T200612Z
+DESCRIPTION:The 7th Annual Responsible Business Summit New York is USA's p
+ remier event focused on providing practical solution and ideas to help acc
+ elerate action on key social and environmental challenges.
+LAST-MODIFIED:20190123T232321Z
+LOCATION:The Purple Onion at Kells 530 Jackson Street San Francisco\, CA 9
+ 4133
+X-NTI-MIMETYPE:application/vnd.nextthought.courseware.coursecalendarevent
+X-NTIID:tag:nextthought.com\,2011-10:alex@nextthought.com-OID-0x020e43:557
+ 3657273:ZkGxm5rskJP
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTI Webinar Sample
+DTSTART:20190124T210000Z
+DTEND:20190124T220000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:system-OID-0x022e46:5573657273_6421331921
+ 032583436_0
+CREATED:20190124T215304Z
+DESCRIPTION:
+LAST-MODIFIED:20190124T215304Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.webinar.webinarcalendarevent
+X-NTIID:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTI Webinar Sample
+DTSTART:20190131T210000Z
+DTEND:20190131T220000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:system-OID-0x022e46:5573657273_6421331921
+ 032583436_1
+CREATED:20190124T215304Z
+DESCRIPTION:
+LAST-MODIFIED:20190124T215304Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.webinar.webinarcalendarevent
+X-NTIID:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NTI Webinar Sample
+DTSTART:20190207T210000Z
+DTEND:20190207T220000Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:system-OID-0x022e46:5573657273_6421331921
+ 032583436_2
+CREATED:20190124T215304Z
+DESCRIPTION:
+LAST-MODIFIED:20190124T215304Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.webinar.webinarcalendarevent
+X-NTIID:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sample Webinar
+DTSTART:20190125T181600Z
+DTEND:20190125T191600Z
+DTSTAMP:20190124T215304Z
+UID:tag:nextthought.com\,2011-10:system-OID-0x022f07:5573657273_9024499367
+ 070995715_0
+CREATED:20190124T215304Z
+DESCRIPTION:Welcome! Please start registering by entering your name and em
+ ail address.\nFor those who can’t attend our live session\, we’ll prov
+ ide a recording.\n\nDetails:\n- We will be using GoToWebinar.\n- You can j
+ oin our session by using a Mac\, PC or a mobile device.\n\nAgenda:\n- Welc
+ ome and introductions\n- Demonstration and questions
+LAST-MODIFIED:20190124T215304Z
+LOCATION:
+X-NTI-MIMETYPE:application/vnd.nextthought.webinar.webinarcalendarevent
+X-NTIID:
+END:VEVENT
+END:VCALENDAR
